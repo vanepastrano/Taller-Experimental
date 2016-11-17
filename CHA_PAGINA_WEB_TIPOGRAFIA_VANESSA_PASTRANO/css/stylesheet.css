@@ -1,0 +1,76 @@
+#wrapper {
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+#name {
+	text-align: center;
+	max-width: 100%;
+}
+
+body {
+	background-image: url(../images/textura2.png);
+	background-size: contain;
+}
+
+#botones {
+	text-align: center;
+	margin-top: 100px;
+}
+
+#b1 {
+	display: inline-block;
+	width: 35%;
+	margin-right: 100px;
+	box-shadow: 10px 10px 15px #5c3a22;
+}
+
+#botones a img:hover {
+	opacity: 0.5;
+}
+
+#b2 {
+	display: inline-block;
+	width: 35%;
+	margin-left: 100px;
+	box-shadow: 10px 10px 15px #5c3a22;
+}
+
+#type-specimen {
+	text-align: center;
+	margin-top: 200px;
+	margin-bottom: 100px;
+}
+
+#type-specimen img {
+	box-shadow: 10px 10px 15px #5c3a22;
+}
+
+#glyphcont {
+	max-width: 2000px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.glyph {
+	background-color: rgba(92,58,34,0.5);
+	max-width: 40%;
+	display: inline-block;
+	margin: 50px;
+}
+
+.glyph img {
+	max-width: 80%;
+}
+
+#quote {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	text-align: center;
+	background-color: rgba(92,58,34,0.5);
+}
+
+#quote img {
+	max-width: 100%;
+}

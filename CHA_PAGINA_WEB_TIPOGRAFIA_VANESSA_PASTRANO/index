@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Wild Yarn</title>
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+
+</head>
+
+<body>
+
+	<div id="wrapper">
+
+		<h1 id="name">
+			<img src="images/name.png">
+		</h1>
+
+		<div id="botones">
+			<a href="https://drive.google.com/file/d/0B8vm2kZwoPH1M3VZODdFY0NDdlE/view?usp=sharing" target="_blank"><img id="b1" src="images/bt-font.png" alt="Descargar Fuente"></a>
+			<a href="https://drive.google.com/file/d/0B8vm2kZwoPH1Q1hmMXBTRndqUHc/view?usp=sharing" target="_blank"><img id="b2" src="images/bt-type.png" alt="Descargar Type Specimen"></a>
+		</div>
+
+		<div id="type-specimen">
+			<img src="images/type-s.png" alt="Type Specimen">
+		</div>
+
+		<div id="glyphcont">
+
+			<div class="glyph"><img src="images/amay.png" alt="Caracteres en mayúscula"></div>
+			<div class="glyph"><img src="images/amin.png" alt="Caracteres en minúscula"></div>
+			<div class="glyph"><img src="images/num.png" alt="Números"></div>
+			<div class="glyph"><img src="images/carac.png" alt="Caracteres Especiales"></div>
+
+		</div>
+
+		<div id="quote">
+				
+			<img src="images/quote-joe.png" alt="Frase célebre de Joe Soprano">
+
+		</div>
+
+	</div>
+
+</body>
+
+</html>
